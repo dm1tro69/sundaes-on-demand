@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
      <SummaryForm/><Options optionType={'scoops'}/>
+     <SummaryForm/><Options optionType={'toppings'}/>
     </div>
   );
 }
